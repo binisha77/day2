@@ -1,0 +1,28 @@
+#Header {
+    height: 20vh;
+    background-color:green;
+
+}
+
+#Footer {
+    background-color: green;
+    height: 20vh;
+
+}
+.mid-div{
+    justify-content: center;
+    height: 60vh;
+    display: flex;
+}
+.sidenav{
+    background-color: aquamarine;
+    flex-basis: 200px
+    
+}
+.MainPart{
+    height: 300px;
+    width: 100%;
+    background-color:rgb(147, 91, 200);
+    display:flex;
+    justify-content:space-between;
+}
